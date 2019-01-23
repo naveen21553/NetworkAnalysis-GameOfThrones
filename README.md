@@ -3,7 +3,7 @@
 ## CASE STUDY
 A Network Analysis of characters in Game of Thrones, in the course of the five books of "A song of Ice and Fire"
 
-!["Image"](https://github.com/naveen21553/NetworkAnalysis-GameOfThrones/blob/master/datasets/GOT_NW_Analysis.PNG)
+!["Datacamp Asset"](https://github.com/naveen21553/NetworkAnalysis-GameOfThrones/blob/master/datasets/GOT_NW_Analysis.PNG)
 
 
 If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular 
