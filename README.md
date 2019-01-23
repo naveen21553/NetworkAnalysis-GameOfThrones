@@ -1,7 +1,7 @@
 # A Network Analysis of Game of Thrones
 A Network Analysis of characters in Game of Thrones, in the course of the five books of "A song of Ice and Fire"
 
-!["Image"](https://raw.githubusercontent.com/naveen21553/Network-Analysis-GameOfThrones/Master/datasets/GOT_NW_Analysis.png)
+!["Image"](https://github.com/naveen21553/NetworkAnalysis-GameOfThrones/blob/master/datasets/GOT_NW_Analysis.PNG)
 
 
 If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular 
