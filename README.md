@@ -1,4 +1,4 @@
-# NetworkAnalysis-GameOfThrones
+# A Network Analysis of Game of Thrones
 A Network Analysis of characters in Game of Thrones, in the course of the five books of "A song of Ice and Fire"
 
 
