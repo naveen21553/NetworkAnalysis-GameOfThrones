@@ -1,6 +1,8 @@
 # A Network Analysis of Game of Thrones
 A Network Analysis of characters in Game of Thrones, in the course of the five books of "A song of Ice and Fire"
 
+!["Image"](https://raw.githubusercontent.com/naveen21553/Network-Analysis-GameOfThrones/Master/datasets/GOT_NW_Analysis.png)
+
 
 If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular 
 television series by HBO based on the (also) hugely popular book series A Song of Ice and Fire by George R.R. Martin. 
