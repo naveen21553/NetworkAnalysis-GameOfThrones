@@ -1,6 +1,6 @@
 # A Network Analysis of Game of Thrones
 
-## CASE STUDY
+### CASE STUDY
 A Network Analysis of characters in Game of Thrones, in the course of the five books of "A song of Ice and Fire"
 
 !["Datacamp Asset"](https://github.com/naveen21553/NetworkAnalysis-GameOfThrones/blob/master/datasets/GOT_NW_Analysis.PNG)
